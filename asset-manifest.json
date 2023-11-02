@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/best-practices/static/css/main.7acaea2f.css",
+    "main.js": "/best-practices/static/js/main.07d3183d.js",
+    "index.html": "/best-practices/index.html",
+    "main.7acaea2f.css.map": "/best-practices/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/best-practices/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
